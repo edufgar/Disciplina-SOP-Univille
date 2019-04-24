@@ -10,6 +10,13 @@ Exercícios Terminal
 6e. cp cliente01.txt cliente01.txt.bkp
 7e. rm cliente01.txt
 8e. vi cliente.script
+          nome=”eduardo”; echo $nome
+          echo ”eduardo” > cliente01.txt
+          echo “ mafra” >> cliente01.txt
+          mkdir clientes e cd clientes 
+          cliente01.txt clientes
+          cp cliente01.txt cliente01.txt.bkp
+          rm cliente01.txt
 9e. chmod x cliente.script
 10e. Ele exibe o calendário e no outro comando ele adicionou o dia de hoje no calendário ao texto hoje.txt
 11e. wget https://gist.githubusercontent.com/leandersonandre/c8cba982f42262591be628e5397d1c3f/raw/bd13a3e13823708e477f99f9285f845b292714c6/cidades_sc.txt
