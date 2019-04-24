@@ -1,1 +1,1 @@
-# Disciplina de Sistemas Operaxionais da Univille
+# Disciplina de Sistemas Operacionais da Univille
