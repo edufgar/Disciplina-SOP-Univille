@@ -13,7 +13,8 @@ Exercícios Terminal
           nome=”eduardo”; echo $nome
           echo ”eduardo” > cliente01.txt
           echo “ mafra” >> cliente01.txt
-          mkdir clientes e cd clientes 
+          mkdir clientes
+          cd clientes 
           cliente01.txt clientes
           cp cliente01.txt cliente01.txt.bkp
           rm cliente01.txt
