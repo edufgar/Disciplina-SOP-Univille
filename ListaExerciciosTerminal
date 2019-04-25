@@ -7,8 +7,8 @@ Exercícios Terminal
 3e. echo “ mafra” >> cliente01.txt
 4e. mkdir clientes 
 5e. mv cliente01.txt clientes
-    cd clientes
-6e. cp cliente01.txt cliente01.txt.bkp
+6e. cd clientes
+    cp cliente01.txt cliente01.txt.bkp
 7e. rm cliente01.txt
 8e. vi cliente.script
           nome=”eduardo”; echo $nome
