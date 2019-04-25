@@ -5,17 +5,18 @@ Exercícios Terminal
 1e. nome=”eduardo”; echo $nome
 2e. echo ”eduardo” > cliente01.txt
 3e. echo “ mafra” >> cliente01.txt
-4e. mkdir clientes e cd clientes 
+4e. mkdir clientes 
 5e. mv cliente01.txt clientes
+    cd clientes
 6e. cp cliente01.txt cliente01.txt.bkp
 7e. rm cliente01.txt
 8e. vi cliente.script
           nome=”eduardo”; echo $nome
           echo ”eduardo” > cliente01.txt
           echo “ mafra” >> cliente01.txt
-          mkdir clientes
+          mkdir clientes          
+          mv cliente01.txt clientes
           cd clientes 
-          cliente01.txt clientes
           cp cliente01.txt cliente01.txt.bkp
           rm cliente01.txt
 9e. chmod x cliente.script
