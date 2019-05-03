@@ -1,0 +1,9 @@
+bank_script.sh
+
+echo "Informe seu nome: "
+read Nome
+
+wget https://raw.githubusercontent.com/leandersonandre/shell-script/master/lista_usuarios.txt
+
+cat bank_script.sh | grep lista_usuarios.txt
+
